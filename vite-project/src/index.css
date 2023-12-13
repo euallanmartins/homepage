@@ -1,0 +1,58 @@
+
+.header {
+  background-color: blue;
+  color: #fff;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.header h1 {
+  margin: 0;
+  color: yellow;
+  
+}
+
+.header nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.header nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.header nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Main.css */
+.main {
+  padding: 20px;
+}
+
+.main section {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.main section h2 {
+  font-size: 28px;
+}
+
+.main section p {
+  font-size: 18px;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.footer p {
+  margin: 0;
+}
